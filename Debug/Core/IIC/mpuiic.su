@@ -1,0 +1,8 @@
+mpuiic.c:4:6:IIC_Init	4	static
+mpuiic.c:17:6:IIC_Start	8	static
+mpuiic.c:27:6:IIC_Stop	8	static
+mpuiic.c:37:4:IIC_Wait_Ack	16	static
+mpuiic.c:55:6:IIC_Ack	8	static
+mpuiic.c:65:6:IIC_NAck	8	static
+mpuiic.c:75:6:IIC_Send_Byte	24	static
+mpuiic.c:91:4:IIC_Read_Byte	24	static

@@ -1,0 +1,4 @@
+encoder.c:46:6:ENC_Clear_Speed_Buffer	16	static
+encoder.c:61:6:ENC_Calc_Average_Speed	24	static
+encoder.c:97:7:Gain2	8	static
+encoder.c:114:7:Gain1	8	static

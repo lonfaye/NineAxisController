@@ -1,0 +1,4 @@
+delay.c:24:6:SysTick_CLKSourceConfig	16	static
+delay.c:42:6:delay_init	16	static
+delay.c:107:6:delay_us	24	static
+delay.c:127:6:delay_ms	24	static

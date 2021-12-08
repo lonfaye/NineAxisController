@@ -1,0 +1,17 @@
+IOI2C.c:12:6:IIC_Init	4	static
+IOI2C.c:23:5:IIC_Start	8	static
+IOI2C.c:42:6:IIC_Stop	8	static
+IOI2C.c:59:5:IIC_Wait_Ack	16	static
+IOI2C.c:85:6:IIC_Ack	8	static
+IOI2C.c:100:6:IIC_NAck	8	static
+IOI2C.c:114:6:IIC_Send_Byte	24	static
+IOI2C.c:135:5:i2cWrite	24	static
+IOI2C.c:161:5:i2cRead	16	static
+IOI2C.c:192:9:IIC_Read_Byte	24	static
+IOI2C.c:219:15:I2C_ReadOneByte	24	static
+IOI2C.c:249:9:IICreadBytes	32	static
+IOI2C.c:279:9:IICwriteBytes	24	static
+IOI2C.c:304:9:IICreadByte	16	static
+IOI2C.c:317:15:IICwriteByte	16	static
+IOI2C.c:332:9:IICwriteBits	32	static
+IOI2C.c:358:9:IICwriteBit	32	static
